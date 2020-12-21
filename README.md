@@ -1,4 +1,4 @@
-# settings
+# vscode settings
 ```
 {
   "editor.snippetSuggestions": "top",
