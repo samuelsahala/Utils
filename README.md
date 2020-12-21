@@ -1,4 +1,5 @@
 # settings
+```
 {
   "editor.snippetSuggestions": "top",
   "emmet.showAbbreviationSuggestions": false,
@@ -58,3 +59,4 @@
   },
   "workbench.colorTheme": "One Dark Pro"
 }
+```
